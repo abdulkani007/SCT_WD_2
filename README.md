@@ -39,6 +39,6 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/stopwatch-app.git
+git clone (https://github.com/abdulkani007/SCT_WD_2)
 Open index.html in your browser.
 (Or use VS Code Live Server to run on localhost.)# SCT_WD_2
